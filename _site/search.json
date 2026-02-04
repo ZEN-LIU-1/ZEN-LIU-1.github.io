@@ -1,0 +1,114 @@
+[
+  {
+    "objectID": "pages/publications.html",
+    "href": "pages/publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Tip: list selected publications here; link to Google Scholar / ORCID for full list."
+  },
+  {
+    "objectID": "pages/publications.html#selected",
+    "href": "pages/publications.html#selected",
+    "title": "Publications",
+    "section": "Selected",
+    "text": "Selected\n\nAuthor, Author. Title. Journal (Year). DOI: …\nAuthor, Author. Title. Journal (Year). DOI: …"
+  },
+  {
+    "objectID": "pages/publications.html#profiles",
+    "href": "pages/publications.html#profiles",
+    "title": "Publications",
+    "section": "Profiles",
+    "text": "Profiles\n\nORCID: https://orcid.org/0000-0002-4848-4951\nPubMed: https://pubmed.ncbi.nlm.nih.gov/?term=Liu+Zheran%5BAuthor%5D"
+  },
+  {
+    "objectID": "pages/orcid.html",
+    "href": "pages/orcid.html",
+    "title": "ORCID",
+    "section": "",
+    "text": "ORCID: https://orcid.org/0000-0002-4848-4951\n\nIf you connect ORCID to your publication list (or export your works), we can render a full publications page automatically."
+  },
+  {
+    "objectID": "pages/contact.html",
+    "href": "pages/contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "ORCID: https://orcid.org/0000-0002-4848-4951\nPubMed: https://pubmed.ncbi.nlm.nih.gov/?term=Liu+Zheran%5BAuthor%5D\nEmail: (add)\nGitHub: (add)"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "ZHERAN LIU",
+    "section": "",
+    "text": "I am a postdoctoral researcher with training in clinical medicine and oncology (MSc/PhD at West China Hospital) and a bachelor’s degree in Clinical Medicine (Nanchang University). My research interests lie at the intersection of cancer biology, bioinformatics, and clinical translation, with a focus on leveraging multi‑omics and computational methods to derive clinically actionable insights."
+  },
+  {
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "ZHERAN LIU",
+    "section": "",
+    "text": "I am a postdoctoral researcher with training in clinical medicine and oncology (MSc/PhD at West China Hospital) and a bachelor’s degree in Clinical Medicine (Nanchang University). My research interests lie at the intersection of cancer biology, bioinformatics, and clinical translation, with a focus on leveraging multi‑omics and computational methods to derive clinically actionable insights."
+  },
+  {
+    "objectID": "index.html#highlights",
+    "href": "index.html#highlights",
+    "title": "ZHERAN LIU",
+    "section": "Highlights",
+    "text": "Highlights\n\nMulti‑omics / sequencing data analysis for cancer research\nMethod development & reproducible pipelines for translational studies\nOpen to collaboration on clinically grounded bioinformatics projects"
+  },
+  {
+    "objectID": "index.html#news-optional",
+    "href": "index.html#news-optional",
+    "title": "ZHERAN LIU",
+    "section": "News (optional)",
+    "text": "News (optional)\n\n2026-02: Homepage scaffold created."
+  },
+  {
+    "objectID": "pages/cv.html",
+    "href": "pages/cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "Download CV (PDF)"
+  },
+  {
+    "objectID": "pages/cv.html#education",
+    "href": "pages/cv.html#education",
+    "title": "CV",
+    "section": "Education",
+    "text": "Education\n\nPhD / MSc (Oncology) — West China Hospital (Sichuan University), China\nBMed (Clinical Medicine) — Nanchang University, China"
+  },
+  {
+    "objectID": "pages/cv.html#positions",
+    "href": "pages/cv.html#positions",
+    "title": "CV",
+    "section": "Positions",
+    "text": "Positions\n\nPostdoctoral Researcher — West China Hospital (Sichuan University), China"
+  },
+  {
+    "objectID": "pages/cv.html#research-interests",
+    "href": "pages/cv.html#research-interests",
+    "title": "CV",
+    "section": "Research interests",
+    "text": "Research interests\n\nCancer bioinformatics\nSequencing / multi-omics analysis\nTranslational and clinical applications"
+  },
+  {
+    "objectID": "pages/projects.html",
+    "href": "pages/projects.html",
+    "title": "Research",
+    "section": "",
+    "text": "What question\nYour approach\nRepresentative output\n\n\n\n\n\nWhat question\nYour approach\nRepresentative output"
+  },
+  {
+    "objectID": "pages/projects.html#research-themes",
+    "href": "pages/projects.html#research-themes",
+    "title": "Research",
+    "section": "",
+    "text": "What question\nYour approach\nRepresentative output\n\n\n\n\n\nWhat question\nYour approach\nRepresentative output"
+  },
+  {
+    "objectID": "pages/projects.html#software-code",
+    "href": "pages/projects.html#software-code",
+    "title": "Research",
+    "section": "Software / code",
+    "text": "Software / code\n\nLink to GitHub repositories"
+  }
+]

@@ -7,7 +7,7 @@ project:
 
 website:
   title: "ZHERAN LIU | Academic"
-  site-url: "https://YOUR-DOMAIN.com" # optional
+  site-url: "https://zen-liu-1.github.io" # optional
   navbar:
     left:
       - href: index.qmd
