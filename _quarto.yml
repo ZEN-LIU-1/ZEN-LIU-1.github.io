@@ -1,5 +1,9 @@
 project:
   type: website
+  output-dir: _site
+  render:
+    - index.qmd
+    - pages/*.qmd
 
 website:
   title: "ZHERAN LIU | Academic"
