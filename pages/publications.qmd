@@ -1,0 +1,15 @@
+---
+title: "Publications"
+---
+
+> Tip: list selected publications here; link to Google Scholar / ORCID for full list.
+
+## Selected
+
+1. **Author**, Author. *Title*. Journal (Year). DOI: ...
+2. **Author**, Author. *Title*. Journal (Year). DOI: ...
+
+## Profiles
+
+- ORCID: https://orcid.org/0000-0002-4848-4951
+- PubMed: https://pubmed.ncbi.nlm.nih.gov/?term=Liu+Zheran%5BAuthor%5D

@@ -1,0 +1,31 @@
+project:
+  type: website
+
+website:
+  title: "ZHERAN LIU | Academic"
+  site-url: "https://YOUR-DOMAIN.com" # optional
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: pages/publications.qmd
+        text: Publications
+      - href: pages/projects.qmd
+        text: Research
+      - href: pages/cv.qmd
+        text: CV
+      - href: pages/orcid.qmd
+        text: ORCID
+      - href: pages/contact.qmd
+        text: Contact
+  page-footer:
+    left: "© {{< meta year >}} ZHERAN LIU"
+    right:
+      - text: "GitHub"
+        href: "https://github.com/YOUR-GITHUB"
+
+format:
+  html:
+    theme: cosmo
+    css: assets/css/custom.css
+    toc: false

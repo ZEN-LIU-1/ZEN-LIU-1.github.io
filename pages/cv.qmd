@@ -1,0 +1,20 @@
+---
+title: "CV"
+---
+
+[Download CV (PDF)](../assets/files/cv.pdf)
+
+## Education
+
+- **PhD / MSc (Oncology)** — West China Hospital (Sichuan University), China
+- **BMed (Clinical Medicine)** — Nanchang University, China
+
+## Positions
+
+- **Postdoctoral Researcher** — West China Hospital (Sichuan University), China
+
+## Research interests
+
+- Cancer bioinformatics
+- Sequencing / multi-omics analysis
+- Translational and clinical applications

@@ -1,0 +1,19 @@
+---
+title: "Research"
+---
+
+## Research themes
+
+### Theme 1
+- What question
+- Your approach
+- Representative output
+
+### Theme 2
+- What question
+- Your approach
+- Representative output
+
+## Software / code
+
+- Link to GitHub repositories
