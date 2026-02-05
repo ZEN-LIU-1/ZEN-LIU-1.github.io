@@ -2,9 +2,9 @@
 title: "Publications"
 ---
 
-Updated from OpenAlex using ORCID **0000-0002-4848-4951**.
+## Selected (first-author)
 
-{{< include publications_auto.md >}}
+{{< include publications_selected.md >}}
 
 ## Profiles
 

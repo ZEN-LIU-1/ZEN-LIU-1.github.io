@@ -2,19 +2,27 @@
 title: "Research"
 ---
 
-## Research interests
+## Focus
 
-- Oncology and cancer bioinformatics
-- Sequencing / multi-omics analysis (bulk & single-cell)
-- Translational research and clinical data integration
+My work focuses on **head and neck squamous cell carcinoma (HNSCC)**, with an emphasis on **multi-omics** and **single-cell** analysis to answer clinically relevant questions.
 
-## Selected grants & projects
+## Grants & projects
 
-- **PI** — Sichuan Provincial Department of Science and Technology, **MZGC20230020**: Prognostic model for brain metastasis based on hematological markers (2023-06-01 to 2024-06-01), 20,000 RMB
-- **Key participant (lead analyst)** — Central Government-Guided Local S&T Development, **2024ZYD0054**: CAF-mediated EGFR-TKI resistance in HNSCC (2024-09-01 to 2025-08-31), 300,000 RMB
-- **Key participant (lead analyst)** — Sichuan International/HK/Macao/Taiwan S&T Collaboration, **2025YFHZ0087**: AI-driven neoantigen prediction & mRNA vaccine development for HNSCC (2025-01-01 to 2025-12-31), 200,000 RMB
-- **Participant** — National Key R&D Program of China, **2021YFE0206600**: EBV-targeted mRNA vaccine for nasopharyngeal carcinoma (ongoing), 1,600,000 RMB
+### Prognostic model for brain metastasis based on hematological markers (MZGC20230020)
+- **Role:** PI
+- **My contributions:** End-to-end participation including data collection, model development, statistical analysis, and manuscript writing.
+- **Period / budget:** 2023-06 to 2024-06; 20,000 RMB
 
-## Software / code
+### CAF-mediated EGFR-TKI resistance in HNSCC (2024ZYD0054)
+- **Role:** First key researcher
+- **My contributions:** In vitro/in vivo experiments, model construction, and data analysis.
+- **Period / budget:** 2024-09 to 2025-08; 300,000 RMB
+
+### AI-driven neoantigen prediction & mRNA vaccine development for HNSCC (2025YFHZ0087)
+- **Role:** Key participant (lead analyst)
+- **My contributions:** Data analysis, model development, and neoantigen prediction.
+- **Period / budget:** 2025-01 to 2025-12; 200,000 RMB
+
+## Links
 
 - GitHub: https://github.com/ZEN-LIU-1
