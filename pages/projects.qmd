@@ -2,18 +2,21 @@
 title: "Research"
 ---
 
-## Research themes
+## Research interests
 
-### Theme 1
-- What question
-- Your approach
-- Representative output
+- Oncology and cancer bioinformatics
+- Sequencing / multi-omics analysis (bulk & single-cell)
+- Translational research and clinical data integration
 
-### Theme 2
-- What question
-- Your approach
-- Representative output
+## Selected grants & projects
+
+- **PI** — Sichuan Provincial Department of Science and Technology, **MZGC20230020**: Prognostic model for brain metastasis based on hematological markers (2023-06-01 to 2024-06-01), 20,000 RMB
+- **Key participant (lead analyst)** — Central Government-Guided Local S&T Development, **2024ZYD0054**: CAF-mediated EGFR-TKI resistance in HNSCC (2024-09-01 to 2025-08-31), 300,000 RMB
+- **Key participant (lead analyst)** — Sichuan International/HK/Macao/Taiwan S&T Collaboration, **2025YFHZ0087**: AI-driven neoantigen prediction & mRNA vaccine development for HNSCC (2025-01-01 to 2025-12-31), 200,000 RMB
+- **Participant** — National Key R&D Program of China, **2021YFE0206600**: EBV-targeted mRNA vaccine for nasopharyngeal carcinoma (ongoing), 1,600,000 RMB
 
 ## Software / code
 
-- Link to GitHub repositories
+- GitHub: https://github.com/ZEN-LIU-1
+
+> If you want this page to look more like a “research portfolio”, tell me 3–5 representative projects you want highlighted (title + 1–2 lines each + optional link), and I’ll format it.

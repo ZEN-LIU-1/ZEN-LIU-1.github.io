@@ -2,12 +2,11 @@
 title: "Publications"
 ---
 
-> Tip: list selected publications here; link to Google Scholar / ORCID for full list.
+## Summary (auto)
 
-## Selected
+Updated automatically from OpenAlex using ORCID **0000-0002-4848-4951**.
 
-1. **Author**, Author. *Title*. Journal (Year). DOI: ...
-2. **Author**, Author. *Title*. Journal (Year). DOI: ...
+{{< include publications_auto.md >}}
 
 ## Profiles
 
