@@ -25,7 +25,7 @@
     "href": "pages/orcid.html",
     "title": "ORCID",
     "section": "",
-    "text": "ORCID: https://orcid.org/0000-0002-4848-4951\n\nIf you connect ORCID to your publication list (or export your works), we can render a full publications page automatically."
+    "text": "ORCID: https://orcid.org/0000-0002-4848-4951"
   },
   {
     "objectID": "pages/contact.html",
@@ -158,7 +158,7 @@
     "href": "pages/projects.html#grants-projects",
     "title": "Research",
     "section": "Grants & projects",
-    "text": "Grants & projects\n\nPrognostic model for brain metastasis based on hematological markers (MZGC20230020)\n\nRole: PI\nMy contributions: End-to-end participation including data collection, model development, statistical analysis, and manuscript writing.\nPeriod / budget: 2023-06 to 2024-06; 20,000 RMB\n\n\n\nCAF-mediated EGFR-TKI resistance in HNSCC (2024ZYD0054)\n\nRole: First key researcher\nMy contributions: In vitro/in vivo experiments, model construction, and data analysis.\nPeriod / budget: 2024-09 to 2025-08; 300,000 RMB\n\n\n\nAI-driven neoantigen prediction & mRNA vaccine development for HNSCC (2025YFHZ0087)\n\nRole: Key participant (lead analyst)\nMy contributions: Data analysis, model development, and neoantigen prediction.\nPeriod / budget: 2025-01 to 2025-12; 200,000 RMB"
+    "text": "Grants & projects\n\nPrognostic model for brain metastasis based on hematological markers (MZGC20230020)\n\nRole: PI\nMy contributions:\n\nPatient data collection and clinical variable definition\nPredictive model development (feature engineering, model training, validation)\nStatistical analysis and visualization\nManuscript drafting and revisions\n\nPeriod / budget: 2023-06 to 2024-06; 20,000 RMB\n\n\n\nCAF-mediated EGFR-TKI resistance in HNSCC (2024ZYD0054)\n\nRole: First key researcher\nMy contributions:\n\nIn vitro and in vivo experiments supporting the CAF–tumor interaction hypothesis\nModel construction and experimental workflow design\nData analysis (including treatment response and resistance-related endpoints)\n\nPeriod / budget: 2024-09 to 2025-08; 300,000 RMB\n\n\n\nAI-driven neoantigen prediction & mRNA vaccine development for HNSCC (2025YFHZ0087)\n\nRole: First key researcher\nMy contributions:\n\nMulti-omics/NGS data processing and quality control\nNeoantigen prediction pipeline design and implementation\nModel building, result interpretation, and prioritization of vaccine candidates\n\nPeriod / budget: 2025-01 to 2025-12; 200,000 RMB"
   },
   {
     "objectID": "pages/projects.html#links",
