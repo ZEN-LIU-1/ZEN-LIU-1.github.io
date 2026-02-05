@@ -23,10 +23,10 @@ website:
       - href: pages/contact.qmd
         text: Contact
   page-footer:
-    left: "© {{< meta year >}} ZHERAN LIU"
+    left: "© 2026 ZHERAN LIU"
     right:
       - text: "GitHub"
-        href: "https://github.com/YOUR-GITHUB"
+        href: "https://github.com/ZEN-LIU-1"
 
 format:
   html:

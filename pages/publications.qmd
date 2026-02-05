@@ -2,9 +2,7 @@
 title: "Publications"
 ---
 
-## Summary (auto)
-
-Updated automatically from OpenAlex using ORCID **0000-0002-4848-4951**.
+Updated from OpenAlex using ORCID **0000-0002-4848-4951**.
 
 {{< include publications_auto.md >}}
 

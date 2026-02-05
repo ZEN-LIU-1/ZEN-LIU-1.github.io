@@ -18,5 +18,3 @@ title: "Research"
 ## Software / code
 
 - GitHub: https://github.com/ZEN-LIU-1
-
-> If you want this page to look more like a “research portfolio”, tell me 3–5 representative projects you want highlighted (title + 1–2 lines each + optional link), and I’ll format it.

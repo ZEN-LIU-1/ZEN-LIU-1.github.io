@@ -5,14 +5,12 @@ subtitle: "Postdoctoral Researcher | Oncology · Bioinformatics"
 
 ## About
 
-I am a postdoctoral researcher with training in **clinical medicine** and **oncology** (MSc/PhD at **West China Hospital**) and a bachelor’s degree in **Clinical Medicine** (Nanchang University). My research interests lie at the intersection of **cancer biology**, **bioinformatics**, and **clinical translation**, with a focus on leveraging multi‑omics and computational methods to derive clinically actionable insights.
+I am a physician–scientist and postdoctoral researcher based at **West China Hospital (Sichuan University)**. I received my MSc/PhD training in **oncology** at West China Hospital and my bachelor’s degree in **Clinical Medicine** from Nanchang University.
 
-## Highlights
+My work focuses on **translational cancer research**, especially the integration of **clinical data** with **omics/bioinformatics** to generate actionable insights.
 
-- Multi‑omics / sequencing data analysis for cancer research
-- Method development & reproducible pipelines for translational studies
-- Open to collaboration on clinically grounded bioinformatics projects
+## Focus areas
 
-## News (optional)
-
-- 2026-02: Homepage scaffold created.
+- Cancer bioinformatics (bulk & single-cell; multi-omics)
+- Translational studies and reproducible analysis pipelines
+- Clinically grounded collaboration
