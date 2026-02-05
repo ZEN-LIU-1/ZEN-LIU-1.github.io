@@ -3,5 +3,3 @@ title: "ORCID"
 ---
 
 - ORCID: https://orcid.org/0000-0002-4848-4951
-
-If you connect ORCID to your publication list (or export your works), we can render a full publications page automatically.

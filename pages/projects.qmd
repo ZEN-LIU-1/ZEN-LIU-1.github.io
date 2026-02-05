@@ -10,17 +10,27 @@ My work focuses on **head and neck squamous cell carcinoma (HNSCC)**, with an em
 
 ### Prognostic model for brain metastasis based on hematological markers (MZGC20230020)
 - **Role:** PI
-- **My contributions:** End-to-end participation including data collection, model development, statistical analysis, and manuscript writing.
+- **My contributions:**
+  - Patient data collection and clinical variable definition
+  - Predictive model development (feature engineering, model training, validation)
+  - Statistical analysis and visualization
+  - Manuscript drafting and revisions
 - **Period / budget:** 2023-06 to 2024-06; 20,000 RMB
 
 ### CAF-mediated EGFR-TKI resistance in HNSCC (2024ZYD0054)
 - **Role:** First key researcher
-- **My contributions:** In vitro/in vivo experiments, model construction, and data analysis.
+- **My contributions:**
+  - In vitro and in vivo experiments supporting the CAF–tumor interaction hypothesis
+  - Model construction and experimental workflow design
+  - Data analysis (including treatment response and resistance-related endpoints)
 - **Period / budget:** 2024-09 to 2025-08; 300,000 RMB
 
 ### AI-driven neoantigen prediction & mRNA vaccine development for HNSCC (2025YFHZ0087)
-- **Role:** Key participant (lead analyst)
-- **My contributions:** Data analysis, model development, and neoantigen prediction.
+- **Role:** First key researcher
+- **My contributions:**
+  - Multi-omics/NGS data processing and quality control
+  - Neoantigen prediction pipeline design and implementation
+  - Model building, result interpretation, and prioritization of vaccine candidates
 - **Period / budget:** 2025-01 to 2025-12; 200,000 RMB
 
 ## Links
