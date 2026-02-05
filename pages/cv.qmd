@@ -2,19 +2,88 @@
 title: "CV"
 ---
 
-[Download CV (PDF)](../assets/files/cv.pdf)
+> **Zheran Liu (刘哲然)**  
+> Postdoctoral Researcher & Physician, Cancer Center, **West China Hospital (Sichuan University)**  
+> Email: <mailto:zeno.liu@outlook.com>  
+> ORCID: <https://orcid.org/0000-0002-4848-4951>  
+> PubMed: <https://pubmed.ncbi.nlm.nih.gov/?term=Liu+Zheran%5BAuthor%5D>
 
 ## Education
 
-- **PhD / MSc (Oncology)** — West China Hospital (Sichuan University), China
-- **BMed (Clinical Medicine)** — Nanchang University, China
+- **PhD/MSc (Oncology; MD–PhD track)** — West China School of Medicine / West China Hospital, Sichuan University, China (2019.09–2025.06)
+  - China Association for Science and Technology (CAST) **Young Talent Support Program** (PhD track)
+  - Supervisor: Prof. Xingchen Peng
+  - Honors/Scholarships (selected): National Scholarship (MOE, China); Abbott Medical Nutrition Scholarship; Daiichi Sankyo Scholarship; Outstanding Graduate Student; Outstanding Graduate
 
-## Positions
+- **BMed (Clinical Medicine) + Sino‑UK Joint Program (Clinical Medicine & Biomedical Sciences)** — Nanchang University, China (2014.09–2019.06)
+  - Dual-degree track (Nanchang University × Queen Mary University of London)
+  - CET‑6: 552
 
-- **Postdoctoral Researcher** — West China Hospital (Sichuan University), China
+## Appointments
+
+- **Postdoctoral Researcher & Physician** — Cancer Center, West China Hospital (Sichuan University), China (2025.07–present)
 
 ## Research interests
 
-- Cancer bioinformatics
-- Sequencing / multi-omics analysis
-- Translational and clinical applications
+- Oncology and cancer bioinformatics
+- Sequencing / multi‑omics analysis (bulk & single‑cell)
+- Translational research and clinical data integration
+
+## Publications (summary)
+
+> Updated automatically from OpenAlex using ORCID (**0000-0002-4848-4951**) on 2026‑02‑04.
+
+- Total publications (OpenAlex matched): **157**
+- H‑index (computed from OpenAlex cited_by_count): **14**
+- Total citations (OpenAlex): **775**
+
+> Note: counts can differ from Google Scholar/PubMed due to author disambiguation and indexing coverage.
+
+## Representative publications (first / co‑first)
+
+1. **Liu Z**. *Liquid–liquid phase separation: roles and implications in future cancer treatment.* **Int J Biol Sci**. 2023;19(13):4139–4156. doi:10.7150/ijbs.81521
+2. **Liu Z**. *Association between fish oil supplementation and cancer risk according to fatty fish consumption: a large prospective cohort study using UK Biobank.* **Int J Cancer**. 2022;150(4):562–571.
+3. **Liu Z**. *Associations of sleep and circadian phenotypes with COVID‑19 susceptibility and hospitalization: UK Biobank observational cohort + two‑sample Mendelian randomization.* **Sleep**. 2022;45(6):zsac003.
+4. Zhao Y, **Liu Z**. *Biomimetic Hierarchical Construction of Anti‑Tumor Polyoxopalladates for Cancer Therapy.* **Angew Chem Int Ed**. 2025;64(23):e202505564.
+
+> Full list: see PubMed link above.
+
+## Patents (filed; selected)
+
+- Use of mesenchymal stem cell–derived exosomes for treating radiation‑induced skin injury (202410662238.4)
+- Radioresistant head and neck squamous cell carcinoma cell line: construction and applications (202410790223.6)
+- Radioresistant mouse oral squamous cell carcinoma cell line: construction and applications (202410790222.1)
+- Use of SPOP protein for hepatocellular carcinoma therapeutics (202410892129.1)
+
+## Grants & projects
+
+- **PI** — Sichuan Provincial Department of Science and Technology, MZGC20230020: Prognostic model for brain metastasis based on hematological markers (2023‑06‑01 to 2024‑06‑01), 20,000 RMB
+- **Key participant (lead analyst)** — Central Government‑Guided Local S&T Development, 2024ZYD0054: CAF‑mediated EGFR‑TKI resistance in HNSCC (2024‑09‑01 to 2025‑08‑31), 300,000 RMB
+- **Key participant (lead analyst)** — Sichuan International/HK/Macao/Taiwan S&T Collaboration, 2025YFHZ0087: AI‑driven neoantigen prediction & mRNA vaccine development for HNSCC (2025‑01‑01 to 2025‑12‑31), 200,000 RMB
+- **Participant** — National Key R&D Program of China, 2021YFE0206600: EBV‑targeted mRNA vaccine for nasopharyngeal carcinoma, 1,600,000 RMB (ongoing)
+
+## Academic services
+
+- Editorial Board Member: **BMC Cancer**
+- Guest Editor: **Frontiers in Immunology**
+- Reviewer: **The BMJ**, **iMeta**
+- Memberships: **AACR**, Chinese Anti‑Cancer Association
+- Committee roles (selected): Sichuan Medical Communication Society (Cancer Prevention & Control Branch); Chengdu Anti‑Cancer Association (Cancer Rehabilitation)
+
+## Training & international experience
+
+- ASCO Annual Meeting (Chicago), Poster (2024; No. 6046)
+- AACR Annual Meeting (Orlando), Poster (2023; No. 5562)
+- Harvard & Johns Hopkins Medical School Graduate Training Program (2020)
+- Queen Mary University of London, Summer exchange (2016)
+
+## Skills
+
+- **Bioinformatics / data analysis**: extensive experience in single‑cell and transcriptomics analysis; clinical research statistics; data mining and visualization in **R**
+- **Research**: end‑to‑end experience across basic, translational, and clinical oncology research
+- **Grant writing / project operations**: protocol writing, project registration & submission, statistical analysis
+
+## Licenses & certifications
+
+- Physician License (China)
+- GCP Certification

@@ -4,5 +4,5 @@ title: "Contact"
 
 - ORCID: https://orcid.org/0000-0002-4848-4951
 - PubMed: https://pubmed.ncbi.nlm.nih.gov/?term=Liu+Zheran%5BAuthor%5D
-- Email: (add)
-- GitHub: (add)
+- GitHub: https://github.com/ZEN-LIU-1
+- Email: zeno.liu@outlook.com

@@ -1,0 +1,7 @@
+/.quarto/
+/.quarto-portable/
+/_site/
+/index_files/
+/.cache_openalex.json
+
+**/*.quarto_ipynb
