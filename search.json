@@ -1,0 +1,170 @@
+[
+  {
+    "objectID": "pages/publications.html",
+    "href": "pages/publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Tip: list selected publications here; link to Google Scholar / ORCID for full list."
+  },
+  {
+    "objectID": "pages/publications.html#selected",
+    "href": "pages/publications.html#selected",
+    "title": "Publications",
+    "section": "Selected",
+    "text": "Selected\n\nAuthor, Author. Title. Journal (Year). DOI: …\nAuthor, Author. Title. Journal (Year). DOI: …"
+  },
+  {
+    "objectID": "pages/publications.html#profiles",
+    "href": "pages/publications.html#profiles",
+    "title": "Publications",
+    "section": "Profiles",
+    "text": "Profiles\n\nORCID: https://orcid.org/0000-0002-4848-4951\nPubMed: https://pubmed.ncbi.nlm.nih.gov/?term=Liu+Zheran%5BAuthor%5D"
+  },
+  {
+    "objectID": "pages/orcid.html",
+    "href": "pages/orcid.html",
+    "title": "ORCID",
+    "section": "",
+    "text": "ORCID: https://orcid.org/0000-0002-4848-4951\n\nIf you connect ORCID to your publication list (or export your works), we can render a full publications page automatically."
+  },
+  {
+    "objectID": "pages/contact.html",
+    "href": "pages/contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "ORCID: https://orcid.org/0000-0002-4848-4951\nPubMed: https://pubmed.ncbi.nlm.nih.gov/?term=Liu+Zheran%5BAuthor%5D\nGitHub: https://github.com/ZEN-LIU-1\nEmail: zeno.liu@outlook.com"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "ZHERAN LIU",
+    "section": "",
+    "text": "I am a postdoctoral researcher with training in clinical medicine and oncology (MSc/PhD at West China Hospital) and a bachelor’s degree in Clinical Medicine (Nanchang University). My research interests lie at the intersection of cancer biology, bioinformatics, and clinical translation, with a focus on leveraging multi‑omics and computational methods to derive clinically actionable insights."
+  },
+  {
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "ZHERAN LIU",
+    "section": "",
+    "text": "I am a postdoctoral researcher with training in clinical medicine and oncology (MSc/PhD at West China Hospital) and a bachelor’s degree in Clinical Medicine (Nanchang University). My research interests lie at the intersection of cancer biology, bioinformatics, and clinical translation, with a focus on leveraging multi‑omics and computational methods to derive clinically actionable insights."
+  },
+  {
+    "objectID": "index.html#highlights",
+    "href": "index.html#highlights",
+    "title": "ZHERAN LIU",
+    "section": "Highlights",
+    "text": "Highlights\n\nMulti‑omics / sequencing data analysis for cancer research\nMethod development & reproducible pipelines for translational studies\nOpen to collaboration on clinically grounded bioinformatics projects"
+  },
+  {
+    "objectID": "index.html#news-optional",
+    "href": "index.html#news-optional",
+    "title": "ZHERAN LIU",
+    "section": "News (optional)",
+    "text": "News (optional)\n\n2026-02: Homepage scaffold created."
+  },
+  {
+    "objectID": "pages/cv.html",
+    "href": "pages/cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "Zheran Liu (刘哲然)\nPostdoctoral Researcher & Physician, Cancer Center, West China Hospital (Sichuan University)\nEmail: mailto:zeno.liu@outlook.com\nORCID: https://orcid.org/0000-0002-4848-4951\nPubMed: https://pubmed.ncbi.nlm.nih.gov/?term=Liu+Zheran%5BAuthor%5D"
+  },
+  {
+    "objectID": "pages/cv.html#education",
+    "href": "pages/cv.html#education",
+    "title": "CV",
+    "section": "Education",
+    "text": "Education\n\nPhD/MSc (Oncology; MD–PhD track) — West China School of Medicine / West China Hospital, Sichuan University, China (2019.09–2025.06)\n\nChina Association for Science and Technology (CAST) Young Talent Support Program (PhD track)\nSupervisor: Prof. Xingchen Peng\nHonors/Scholarships (selected): National Scholarship (MOE, China); Abbott Medical Nutrition Scholarship; Daiichi Sankyo Scholarship; Outstanding Graduate Student; Outstanding Graduate\n\nBMed (Clinical Medicine) + Sino‑UK Joint Program (Clinical Medicine & Biomedical Sciences) — Nanchang University, China (2014.09–2019.06)\n\nDual-degree track (Nanchang University × Queen Mary University of London)\nCET‑6: 552"
+  },
+  {
+    "objectID": "pages/cv.html#appointments",
+    "href": "pages/cv.html#appointments",
+    "title": "CV",
+    "section": "Appointments",
+    "text": "Appointments\n\nPostdoctoral Researcher & Physician — Cancer Center, West China Hospital (Sichuan University), China (2025.07–present)"
+  },
+  {
+    "objectID": "pages/cv.html#research-interests",
+    "href": "pages/cv.html#research-interests",
+    "title": "CV",
+    "section": "Research interests",
+    "text": "Research interests\n\nOncology and cancer bioinformatics\nSequencing / multi‑omics analysis (bulk & single‑cell)\nTranslational research and clinical data integration"
+  },
+  {
+    "objectID": "pages/cv.html#publications-summary",
+    "href": "pages/cv.html#publications-summary",
+    "title": "CV",
+    "section": "Publications (summary)",
+    "text": "Publications (summary)\n\nUpdated automatically from OpenAlex using ORCID (0000-0002-4848-4951) on 2026‑02‑04.\n\n\nTotal publications (OpenAlex matched): 157\nH‑index (computed from OpenAlex cited_by_count): 14\nTotal citations (OpenAlex): 775\n\n\nNote: counts can differ from Google Scholar/PubMed due to author disambiguation and indexing coverage."
+  },
+  {
+    "objectID": "pages/cv.html#representative-publications-first-cofirst",
+    "href": "pages/cv.html#representative-publications-first-cofirst",
+    "title": "CV",
+    "section": "Representative publications (first / co‑first)",
+    "text": "Representative publications (first / co‑first)\n\nLiu Z. Liquid–liquid phase separation: roles and implications in future cancer treatment. Int J Biol Sci. 2023;19(13):4139–4156. doi:10.7150/ijbs.81521\nLiu Z. Association between fish oil supplementation and cancer risk according to fatty fish consumption: a large prospective cohort study using UK Biobank. Int J Cancer. 2022;150(4):562–571.\nLiu Z. Associations of sleep and circadian phenotypes with COVID‑19 susceptibility and hospitalization: UK Biobank observational cohort + two‑sample Mendelian randomization. Sleep. 2022;45(6):zsac003.\nZhao Y, Liu Z. Biomimetic Hierarchical Construction of Anti‑Tumor Polyoxopalladates for Cancer Therapy. Angew Chem Int Ed. 2025;64(23):e202505564.\n\n\nFull list: see PubMed link above."
+  },
+  {
+    "objectID": "pages/cv.html#patents-filed-selected",
+    "href": "pages/cv.html#patents-filed-selected",
+    "title": "CV",
+    "section": "Patents (filed; selected)",
+    "text": "Patents (filed; selected)\n\nUse of mesenchymal stem cell–derived exosomes for treating radiation‑induced skin injury (202410662238.4)\nRadioresistant head and neck squamous cell carcinoma cell line: construction and applications (202410790223.6)\nRadioresistant mouse oral squamous cell carcinoma cell line: construction and applications (202410790222.1)\nUse of SPOP protein for hepatocellular carcinoma therapeutics (202410892129.1)"
+  },
+  {
+    "objectID": "pages/cv.html#grants-projects",
+    "href": "pages/cv.html#grants-projects",
+    "title": "CV",
+    "section": "Grants & projects",
+    "text": "Grants & projects\n\nPI — Sichuan Provincial Department of Science and Technology, MZGC20230020: Prognostic model for brain metastasis based on hematological markers (2023‑06‑01 to 2024‑06‑01), 20,000 RMB\nKey participant (lead analyst) — Central Government‑Guided Local S&T Development, 2024ZYD0054: CAF‑mediated EGFR‑TKI resistance in HNSCC (2024‑09‑01 to 2025‑08‑31), 300,000 RMB\nKey participant (lead analyst) — Sichuan International/HK/Macao/Taiwan S&T Collaboration, 2025YFHZ0087: AI‑driven neoantigen prediction & mRNA vaccine development for HNSCC (2025‑01‑01 to 2025‑12‑31), 200,000 RMB\nParticipant — National Key R&D Program of China, 2021YFE0206600: EBV‑targeted mRNA vaccine for nasopharyngeal carcinoma, 1,600,000 RMB (ongoing)"
+  },
+  {
+    "objectID": "pages/cv.html#academic-services",
+    "href": "pages/cv.html#academic-services",
+    "title": "CV",
+    "section": "Academic services",
+    "text": "Academic services\n\nEditorial Board Member: BMC Cancer\nGuest Editor: Frontiers in Immunology\nReviewer: The BMJ, iMeta\nMemberships: AACR, Chinese Anti‑Cancer Association\nCommittee roles (selected): Sichuan Medical Communication Society (Cancer Prevention & Control Branch); Chengdu Anti‑Cancer Association (Cancer Rehabilitation)"
+  },
+  {
+    "objectID": "pages/cv.html#training-international-experience",
+    "href": "pages/cv.html#training-international-experience",
+    "title": "CV",
+    "section": "Training & international experience",
+    "text": "Training & international experience\n\nASCO Annual Meeting (Chicago), Poster (2024; No. 6046)\nAACR Annual Meeting (Orlando), Poster (2023; No. 5562)\nHarvard & Johns Hopkins Medical School Graduate Training Program (2020)\nQueen Mary University of London, Summer exchange (2016)"
+  },
+  {
+    "objectID": "pages/cv.html#skills",
+    "href": "pages/cv.html#skills",
+    "title": "CV",
+    "section": "Skills",
+    "text": "Skills\n\nBioinformatics / data analysis: extensive experience in single‑cell and transcriptomics analysis; clinical research statistics; data mining and visualization in R\nResearch: end‑to‑end experience across basic, translational, and clinical oncology research\nGrant writing / project operations: protocol writing, project registration & submission, statistical analysis"
+  },
+  {
+    "objectID": "pages/cv.html#licenses-certifications",
+    "href": "pages/cv.html#licenses-certifications",
+    "title": "CV",
+    "section": "Licenses & certifications",
+    "text": "Licenses & certifications\n\nPhysician License (China)\nGCP Certification"
+  },
+  {
+    "objectID": "pages/projects.html",
+    "href": "pages/projects.html",
+    "title": "Research",
+    "section": "",
+    "text": "What question\nYour approach\nRepresentative output\n\n\n\n\n\nWhat question\nYour approach\nRepresentative output"
+  },
+  {
+    "objectID": "pages/projects.html#research-themes",
+    "href": "pages/projects.html#research-themes",
+    "title": "Research",
+    "section": "",
+    "text": "What question\nYour approach\nRepresentative output\n\n\n\n\n\nWhat question\nYour approach\nRepresentative output"
+  },
+  {
+    "objectID": "pages/projects.html#software-code",
+    "href": "pages/projects.html#software-code",
+    "title": "Research",
+    "section": "Software / code",
+    "text": "Software / code\n\nLink to GitHub repositories"
+  }
+]

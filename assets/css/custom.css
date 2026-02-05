@@ -1,0 +1,11 @@
+/* Minimal tweaks */
+
+/* Keep text readable */
+body { line-height: 1.6; }
+
+/* Slightly narrower content for academic reading */
+.page-columns { max-width: 980px; }
+
+/* Simple link styling */
+a { text-decoration: none; }
+a:hover { text-decoration: underline; }
