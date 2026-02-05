@@ -4,14 +4,7 @@
     "href": "pages/publications.html",
     "title": "Publications",
     "section": "",
-    "text": "Updated automatically from OpenAlex using ORCID 0000-0002-4848-4951.\n\nUpdated: 157 works; citations 775; h-index 14."
-  },
-  {
-    "objectID": "pages/publications.html#summary-auto",
-    "href": "pages/publications.html#summary-auto",
-    "title": "Publications",
-    "section": "",
-    "text": "Updated automatically from OpenAlex using ORCID 0000-0002-4848-4951.\n\nUpdated: 157 works; citations 775; h-index 14."
+    "text": "Updated from OpenAlex using ORCID 0000-0002-4848-4951.\nUpdated: 157 works; citations 775; h-index 14."
   },
   {
     "objectID": "pages/publications.html#publications-recent-first",
@@ -46,28 +39,21 @@
     "href": "index.html",
     "title": "ZHERAN LIU",
     "section": "",
-    "text": "I am a postdoctoral researcher with training in clinical medicine and oncology (MSc/PhD at West China Hospital) and a bachelor’s degree in Clinical Medicine (Nanchang University). My research interests lie at the intersection of cancer biology, bioinformatics, and clinical translation, with a focus on leveraging multi‑omics and computational methods to derive clinically actionable insights."
+    "text": "I am a physician–scientist and postdoctoral researcher based at West China Hospital (Sichuan University). I received my MSc/PhD training in oncology at West China Hospital and my bachelor’s degree in Clinical Medicine from Nanchang University.\nMy work focuses on translational cancer research, especially the integration of clinical data with omics/bioinformatics to generate actionable insights."
   },
   {
     "objectID": "index.html#about",
     "href": "index.html#about",
     "title": "ZHERAN LIU",
     "section": "",
-    "text": "I am a postdoctoral researcher with training in clinical medicine and oncology (MSc/PhD at West China Hospital) and a bachelor’s degree in Clinical Medicine (Nanchang University). My research interests lie at the intersection of cancer biology, bioinformatics, and clinical translation, with a focus on leveraging multi‑omics and computational methods to derive clinically actionable insights."
+    "text": "I am a physician–scientist and postdoctoral researcher based at West China Hospital (Sichuan University). I received my MSc/PhD training in oncology at West China Hospital and my bachelor’s degree in Clinical Medicine from Nanchang University.\nMy work focuses on translational cancer research, especially the integration of clinical data with omics/bioinformatics to generate actionable insights."
   },
   {
-    "objectID": "index.html#highlights",
-    "href": "index.html#highlights",
+    "objectID": "index.html#focus-areas",
+    "href": "index.html#focus-areas",
     "title": "ZHERAN LIU",
-    "section": "Highlights",
-    "text": "Highlights\n\nMulti‑omics / sequencing data analysis for cancer research\nMethod development & reproducible pipelines for translational studies\nOpen to collaboration on clinically grounded bioinformatics projects"
-  },
-  {
-    "objectID": "index.html#news-optional",
-    "href": "index.html#news-optional",
-    "title": "ZHERAN LIU",
-    "section": "News (optional)",
-    "text": "News (optional)\n\n2026-02: Homepage scaffold created."
+    "section": "Focus areas",
+    "text": "Focus areas\n\nCancer bioinformatics (bulk & single-cell; multi-omics)\nTranslational studies and reproducible analysis pipelines\nClinically grounded collaboration"
   },
   {
     "objectID": "pages/cv.html",
@@ -179,6 +165,6 @@
     "href": "pages/projects.html#software-code",
     "title": "Research",
     "section": "Software / code",
-    "text": "Software / code\n\nGitHub: https://github.com/ZEN-LIU-1\n\n\nIf you want this page to look more like a “research portfolio”, tell me 3–5 representative projects you want highlighted (title + 1–2 lines each + optional link), and I’ll format it."
+    "text": "Software / code\n\nGitHub: https://github.com/ZEN-LIU-1"
   }
 ]
